@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Code:400,300');
+@import url("https://fonts.googleapis.com/css?family=Fira+Code:400,300");
 
 /* Base Styles */
 html {
@@ -9,7 +9,7 @@ body {
     font-size: 1.5em;
     line-height: 1.6;
     font-weight: 400;
-    font-family: 'Fira Code', Helvetica, Arial, sans-serif;
+    font-family: "Fira Code", Helvetica, Arial, sans-serif;
     /* color: #222; */
 }
 
@@ -224,6 +224,7 @@ h6 {
 p {
     margin-top: 0;
     color: #eceff4;
+    font-size: 18px;
 }
 
 /* Header  */
@@ -382,6 +383,7 @@ footer {
 footer p {
     color: #eceff4;
     margin: 10px 0 0 0;
+    font-size: 14px;
 }
 
 .socialIcons {
@@ -416,7 +418,7 @@ form {
 .container:after,
 .row:after,
 .u-cf {
-    content: '';
+    content: "";
     display: table;
     clear: both;
 }
